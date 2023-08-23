@@ -4,7 +4,7 @@ _capturethefoundry_ is a platform to practice foundry skills like writing PoCs a
 
 ## Introduction
 
-Hey there, researcher! Have you heard of pancakeswap? It seems that I have some FAPEN (Father Pepe Inu) tokens and I want to swap them for some WBNB. Can you help me out? I need the contract address of the FAPEN token and WBNB token first, then I need you to help me swap my FAPEN tokens for BNB tokens. I know it's a lot to ask for, but I really need some BNB right now... 
+Hey there, researcher! Have you heard of Pancakeswap? It seems that I have some FAPEN (Father Pepe Inu) tokens and I want to swap them for some BNB. Can you help me out? I need the contract address of the FAPEN token and WBNB token first, then I need you to help me swap my FAPEN tokens for BNB tokens. I know it's a lot to ask for, but I really need some BNB right now... 
 
 I think you can find the contract addresses of both tokens [here](https://bscscan.com/tx/0xa2be65e439eb182e8f2acfe7eff9a4bab55eb3cd789dcc0ddd19bf811af78a93).
 
