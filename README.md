@@ -30,9 +30,9 @@ Pancake Router `swapExactTokensForETHSupportingFeeOnTransferTokens()` function.
 
 ## Hints
 
-If you're unsure of what to put in for the input parameters of the swap function, I was looking at the transaction logs and I think [this](https://explorer.phalcon.xyz/tx/bsc/0xa2be65e439eb182e8f2acfe7eff9a4bab55eb3cd789dcc0ddd19bf811af78a93) may help. Look at the bottom of the website, you should see the PancakeRouter.swapExactTokensForETHSupportingFeeOnTransferTokens() and its input parameter
+If you're unsure of what to put in for the input parameters of the swap function, I was looking at the transaction logs and I think [this](https://explorer.phalcon.xyz/tx/bsc/0xa2be65e439eb182e8f2acfe7eff9a4bab55eb3cd789dcc0ddd19bf811af78a93) may help. Look at the bottom of the website, you should see `PancakeRouter.swapExactTokensForETHSupportingFeeOnTransferTokens()` and its input parameter. Try following the values in the input and you should be fine.
 
-I think you have to create the path by youself, like creating an array with 2 indexes. The first index should be the address of FAPEN and the second should be the address of WBNB.
+About the path parameter... I think you have to create the path by youself, like creating an array with 2 indexes. The first index should be the address of FAPEN and the second should be the address of WBNB.
 
 Also, when you're copying the token address, make sure that you copy from the BSCScan website itself. Capital letters are important!
 
